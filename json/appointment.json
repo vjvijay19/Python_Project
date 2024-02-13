@@ -1,0 +1,23 @@
+[
+  {
+    "_id": 1,
+    "name": "varadaraj",
+    "mob_no": 1234,
+    "doctor_id": 3,
+    "date": "18-01-2024"
+  },
+  {
+    "_id": 2,
+    "name": "rajkumar",
+    "mob_no": 5678,
+    "doctor_id": 4,
+    "date": "26-01-2024"
+  },
+  {
+    "_id": 3,
+    "name": "vijay",
+    "mob_no": 9101,
+    "doctor_id": 5,
+    "date": "19-01-2024"
+  }
+]

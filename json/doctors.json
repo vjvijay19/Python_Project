@@ -1,0 +1,27 @@
+[
+  {
+    "_id": 1,
+    "doctor_name": "Dr. karthik",
+    "specification": "MD (Medical Doctor)"
+  },
+  {
+    "_id": 2,
+    "doctor_name": "Dr. sanjivy",
+    "specification": "DO (Doctor of Osteopathic Medicine"
+  },
+  {
+    "_id": 3,
+    "doctor_name": "Dr. Vasanth",
+    "specification": "DDS (Doctor of Dental Surgery)"
+  },
+  {
+    "_id": 4,
+    "doctor_name": "Dr. Vijay",
+    "specification": "DVM (Doctor of Veterinary Medicine)"
+  },
+  {
+    "_id": 5,
+    "doctor_name": "Dr. Raj Kumar",
+    "specification": "MD (Medical Doctor)"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "_id": 1,
+    "created_by": "varadharaj",
+    "college": "rgcet",
+    "designation": "btech"
+  },
+  {
+    "_id": 2,
+    "created_by": "rajkumar",
+    "college": "mit",
+    "designation": "btech"
+  },
+  {
+    "_id": 3,
+    "created_by": "vijay",
+    "college": "mit",
+    "designation": "btech"
+  }
+]
